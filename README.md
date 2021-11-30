@@ -16,7 +16,6 @@
 - Snapchat Clone (React JS)
 - Slack Clone (React JS)
 - Spotify Clone (React JS)
-- 
 - TikTok Clone (React JS)
 - Tinder Clone (React JS)
 - Twitter Clone (React JS)
